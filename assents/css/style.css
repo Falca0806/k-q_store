@@ -1,0 +1,16 @@
+.arriba{
+    background-color: rgb(179, 51, 51);
+    height: 45px;
+    width: 45px;
+    text-align: center;
+    line-height: 35px;
+    right: 11px;
+    position: fixed;
+    bottom: 100px;
+    border-radius: 100%;
+    font-size: 35px;
+}
+.arriba a{
+    text-decoration: none;
+    color: black;
+}
